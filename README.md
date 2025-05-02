@@ -1,7 +1,5 @@
 # MIST-4610-Group-project-2
 
-# MIST4610-Project2-Group9
-
 ## Team Name:
 61608 Group 9
 
